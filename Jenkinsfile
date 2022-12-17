@@ -3,4 +3,3 @@ node {stage("Build")
         sh 'git branch'
 sh 'ls commit'
        }
-     }
